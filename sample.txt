@@ -1,3 +1,5 @@
 This is a text file created for testing purposes.
 
 This file is being changed via GitHub!
+
+Attempting to simulate a merge conflict...
