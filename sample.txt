@@ -2,4 +2,8 @@ This is a text file created for testing purposes.
 
 This file is being changed via GitHub!
 
+<<<<<<< HEAD
 This will cause a merge conflict!
+=======
+Attempting to simulate a merge conflict...
+>>>>>>> 34df87385de4005cc87be702e2821126be7258a1
